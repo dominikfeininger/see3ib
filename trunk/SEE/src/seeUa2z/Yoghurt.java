@@ -2,7 +2,7 @@ package seeUa2z;
 
 import seeUa2.Cereal;
 
-public class Yoghurt extends Zutaten {
+public class Yoghurt extends Decorator {
 
 	Cereal müsli;
 
