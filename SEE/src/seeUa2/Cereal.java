@@ -4,6 +4,7 @@ public abstract class Cereal {
 
 	private String description = null;
 
+	
 	public abstract double getPrice();
 
 	public String getDescription() {

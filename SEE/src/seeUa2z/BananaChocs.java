@@ -2,7 +2,7 @@ package seeUa2z;
 
 import seeUa2.Cereal;
 
-public class BananaChocs extends Zutaten {
+public class BananaChocs extends Decorator {
 
 	Cereal müsli;
 
@@ -15,6 +15,7 @@ public class BananaChocs extends Zutaten {
 	}
 
 	public String getDescription() {
+		
 		return müsli.getDescription() + "Fruchtig und süß \n";
 	}
 
