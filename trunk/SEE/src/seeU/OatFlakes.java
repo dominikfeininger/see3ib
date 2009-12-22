@@ -2,9 +2,23 @@ package seeU;
 
 public class OatFlakes extends Cereal {
 
-	public OatFlakes() {
-		super();
-		// TODO Auto-generated constructor stub
+	//boolean straw, boolean pea, boolean choc, boolean yog, boolean ban
+	public OatFlakes(boolean straw, boolean pea, boolean choc, boolean yog, boolean ban) {
+		super(straw,  pea,  choc,  yog,  ban);
+		
 	}
 
+	
+public double getPrice() {
+		
+		return super.getPrice() + 3;
+	}
+
+	public String getDescription() {
+		String name= "OatFlakes: \n";
+		name +=super.getDescription();
+		return name;
+	}
+	
+	
 }
