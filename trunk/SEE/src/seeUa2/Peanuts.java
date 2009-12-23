@@ -1,6 +1,5 @@
-package seeUa2z;
+package seeUa2;
 
-import seeUa2.Cereal;
 
 public class Peanuts extends Decorator {
 

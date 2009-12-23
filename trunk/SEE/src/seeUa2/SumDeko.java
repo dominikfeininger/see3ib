@@ -1,4 +1,4 @@
-package seeUa2z;
+package seeUa2;
 
 import seeUa2.*;
 
