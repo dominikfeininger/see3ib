@@ -1,6 +1,5 @@
 package seeUa2;
 
-import seeUa2z.*;
 
 public class Main {
 

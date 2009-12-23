@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="seeUa2ClassDiagram" id="{UMLID=_ksS9APAVEd6wruJwNPMEzw,JavaID=seeUa2}" metadata="uml2-1.0" initialized="true" tag="10" key="323030373036323920534545">
-  <children xsi:type="editmodel:ClassEditModel" name="Main" location="50,544" size="83,65" timstampe="2" stereotype="" id="{UMLID=_3ngp0PAVEd6wruJwNPMEzw,JavaID=seeUa2/Main}" runTimeClassModel="main([Ljava.lang.String;)">
+  <children xsi:type="editmodel:ClassEditModel" name="Main" location="50,544" size="83,65" timstampe="5" stereotype="" id="{UMLID=_3ngp0PAVEd6wruJwNPMEzw,JavaID=seeUa2/Main}" runTimeClassModel="main([Ljava.lang.String;)">
     <children xsi:type="editmodel:CompartmentEditModel"/>
     <children xsi:type="editmodel:CompartmentEditModel" size="62,18">
       <children xsi:type="editmodel:MethodEditModel" name="main" size="62,16" id="{UMLID=_3nifAPAVEd6wruJwNPMEzw,JavaID=seeUa2/Main#main([Ljava.lang.String;)}"/>
@@ -169,7 +169,7 @@
     <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showMethods="true" showAttributes="true" showLiterals="true" ShowInnerEntity="true"/>
   </children>
   <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=1" autoName="false"/>
-  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="0,364" rulerUnit="cm" gridShow="true">
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="112,0" rulerUnit="cm" gridShow="true">
     <leftRuler/>
     <topRuler/>
   </boardSetting>
